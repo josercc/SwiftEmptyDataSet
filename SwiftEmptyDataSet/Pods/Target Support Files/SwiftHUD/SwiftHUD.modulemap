@@ -1,0 +1,6 @@
+framework module SwiftHUD {
+  umbrella header "SwiftHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
